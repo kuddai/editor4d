@@ -1,4 +1,6 @@
-editor4d - work in progress! 
+#editor4d
+work in progress!
+
 #TODO
 * pass indices and vertices from js client
 * pass rotation planes angles from js
