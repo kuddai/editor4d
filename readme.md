@@ -1,7 +1,8 @@
-#editor4d
+# editor4d
+
 work in progress!
 
-#TODO
+# TODO
 * pass indices and vertices from js client
 * pass rotation planes angles from js
 * modify opengl/shader code to account for indices and worldprojection matrices
