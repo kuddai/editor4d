@@ -1,0 +1,8 @@
+export PATH="/home/kuddai/cs/emsdk:/home/kuddai/cs/emsdk/clang/e1.38.13_64bit:/home/kuddai/cs/emsdk/node/8.9.1_64bit/bin:/home/kuddai/cs/emsdk/emscripten/1.38.13:/home/kuddai/cs/google-cloud-sdk/bin:/home/kuddai/.local/bin:/home/kuddai/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/kuddai/cs/depot_tools"
+export EMSDK="/home/kuddai/cs/emsdk"
+export EM_CONFIG="/home/kuddai/.emscripten"
+export LLVM_ROOT="/home/kuddai/cs/emsdk/clang/e1.38.13_64bit"
+export EMSCRIPTEN_NATIVE_OPTIMIZER="/home/kuddai/cs/emsdk/clang/e1.38.13_64bit/optimizer"
+export BINARYEN_ROOT="/home/kuddai/cs/emsdk/clang/e1.38.13_64bit/binaryen"
+export EMSDK_NODE="/home/kuddai/cs/emsdk/node/8.9.1_64bit/bin/node"
+export EMSCRIPTEN="/home/kuddai/cs/emsdk/emscripten/1.38.13"

@@ -1,0 +1,157 @@
+{
+  "repositories": {
+    "libcxxabi": {
+      "remote": "https://llvm.googlesource.com/libcxxabi.git", 
+      "subject": "cxa_demangle: make demangler's parsing functions overridable", 
+      "hash": "794d4c0c33d99585ae99a069e99ff2c06aa98b56", 
+      "name": "Pavel Labath", 
+      "email": "pavel@labath.sk"
+    }, 
+    "binaryen": {
+      "remote": "https://chromium.googlesource.com/external/github.com/WebAssembly/binaryen.git", 
+      "subject": "comment on nondeterminism in precompute pass [ci skip] (#1704)", 
+      "hash": "905aea256a3b5114121ef106084a55bad0e3ab1d", 
+      "name": "Alon Zakai", 
+      "email": "alonzakai@gmail.com"
+    }, 
+    "gnuwin32": null, 
+    "lld": {
+      "remote": "https://llvm.googlesource.com/lld.git", 
+      "subject": "[PPC64] Fix offset checks on rel24 call relocations.", 
+      "hash": "23c11f5a2f1497ad46d1d99d19aa3c613fdbe34e", 
+      "name": "Sean Fertile", 
+      "email": "sfertile@ca.ibm.com"
+    }, 
+    "cr-buildtools": {
+      "remote": "https://chromium.googlesource.com/chromium/src/build.git", 
+      "subject": "PRESUBMIT.py: Remove uses of EnsureCQIncludeTrybotsAreAdded.", 
+      "hash": "2d2b19edae82d8bc940fa461b9288756884026c2", 
+      "name": "Edward Lemur", 
+      "email": "ehmaldonado@chromium.org"
+    }, 
+    "compiler-rt": {
+      "remote": "https://llvm.googlesource.com/compiler-rt.git", 
+      "subject": "[compiler-rt] Don't explicitly set CMAKE_CXX_FLAGS.", 
+      "hash": "dd5ba397be3a524040f2cb22f77e41f5d66158f1", 
+      "name": "Dan Albert", 
+      "email": "danalbert@google.com"
+    }, 
+    "gcc": {
+      "remote": "https://chromium.googlesource.com/chromiumos/third_party/gcc.git", 
+      "subject": "[GCC] Fix compile time error introduced by PR64111 (GCC FSF).", 
+      "hash": "b6125c702850488ac3bfb1079ae5c9db89989406", 
+      "name": "Caroline Tice", 
+      "email": "cmtice@google.com"
+    }, 
+    "emscripten": {
+      "remote": "https://chromium.googlesource.com/external/github.com/kripken/emscripten.git", 
+      "subject": "Support input from the global Module object in MODULARIZE_INSTANCE (#7293)", 
+      "hash": "edfbe07d5fffa9b9f0856d7d4b0878e7d36e610a", 
+      "name": "Alon Zakai", 
+      "email": "alonzakai@gmail.com"
+    }, 
+    "libcxx": {
+      "remote": "https://llvm.googlesource.com/libcxx.git", 
+      "subject": "[libcxx] Improve reporting when running the lit test suite", 
+      "hash": "6c34a15a1f44fca2fe37dbe6799b53154f0ed41b", 
+      "name": "Louis Dionne", 
+      "email": "ldionne@apple.com"
+    }, 
+    "nodejs": null, 
+    "host-toolchain": {
+      "remote": "/b/build/slave/cache_dir/chromium.googlesource.com-external-github.com-webassembly-waterfall", 
+      "subject": "Fix expectations", 
+      "hash": "18dd01e12db92b81ce77b9adc29c5928b50edd21", 
+      "name": "Sam Clegg", 
+      "email": "sbc@chromium.org"
+    }, 
+    "fastcomp": {
+      "remote": "https://chromium.googlesource.com/external/github.com/kripken/emscripten-fastcomp.git", 
+      "subject": "1.38.13", 
+      "hash": "700797013be4bb38b131c0f36f0f562b90c7714a", 
+      "name": "Alon Zakai", 
+      "email": "azakai@google.com"
+    }, 
+    "spec": {
+      "remote": "https://chromium.googlesource.com/external/github.com/WebAssembly/spec.git", 
+      "subject": "Update documentation for jsapi tests.", 
+      "hash": "f20e40f0437956b7a902d140c6c565d2d21db5e6", 
+      "name": "Ms2ger", 
+      "email": "Ms2ger@igalia.com"
+    }, 
+    "ocamlbuild": {
+      "remote": "https://github.com/ocaml/ocamlbuild.git", 
+      "subject": "prepare for 0.11.0 release", 
+      "hash": "340c02089003dffd10b654a7eb203ffd01c37799", 
+      "name": "Gabriel Scherer", 
+      "email": "gabriel.scherer@gmail.com"
+    }, 
+    "llvm": {
+      "remote": "https://llvm.googlesource.com/llvm.git", 
+      "subject": "Support of hurd in llvm-shlib", 
+      "hash": "7d144ecd33f0186b947dcb700d55ae4ee14f7c74", 
+      "name": "Sylvestre Ledru", 
+      "email": "sylvestre@debian.org"
+    }, 
+    "musl": {
+      "remote": "https://github.com/jfbastien/musl.git", 
+      "subject": "Merge pull request #49 from jfbastien/fix_size_t", 
+      "hash": "edeb5004e6e016e326c475ce53199755d76d103f", 
+      "name": "Sam Clegg", 
+      "email": "sbc@chromium.org"
+    }, 
+    "clang": {
+      "remote": "https://llvm.googlesource.com/clang.git", 
+      "subject": "Add check-clang-python to the Clang tests directory in IDEs; NFC.", 
+      "hash": "2abe10f0902311fdb2896d3c6223787f51049fac", 
+      "name": "Aaron Ballman", 
+      "email": "aaron@aaronballman.com"
+    }, 
+    "waterfall": {
+      "remote": "/b/build/slave/cache_dir/chromium.googlesource.com-external-github.com-webassembly-waterfall", 
+      "subject": "Fix expectations", 
+      "hash": "18dd01e12db92b81ce77b9adc29c5928b50edd21", 
+      "name": "Sam Clegg", 
+      "email": "sbc@chromium.org"
+    }, 
+    "v8": {
+      "remote": "https://chromium.googlesource.com/v8/v8.git", 
+      "subject": "[class] Ship instance and static public class fields", 
+      "hash": "1fc8452bdf759b3921c4470b5e1ff80d5dd1b29d", 
+      "name": "Sathya Gunasekaran", 
+      "email": "gsathya@chromium.org"
+    }, 
+    "cmake": null, 
+    "java": null, 
+    "llvm-test-suite": {
+      "remote": "https://llvm.googlesource.com/test-suite.git", 
+      "subject": "cmake: Add TEST_SUITE_EXTRA_*_FLAGS variable", 
+      "hash": "abab223ccf64bf1ebd23390630a5309709f9339e", 
+      "name": "Matthias Braun", 
+      "email": "matze@braunis.de"
+    }, 
+    "ocaml": {
+      "remote": "https://github.com/ocaml/ocaml.git", 
+      "subject": "change VERSION for 4.05.0", 
+      "hash": "36750d1301ec197e52a1e3d77f20b33dfdf14803", 
+      "name": "Damien Doligez", 
+      "email": "damien.doligez@inria.fr"
+    }, 
+    "fastcomp-clang": {
+      "remote": "https://chromium.googlesource.com/external/github.com/kripken/emscripten-fastcomp-clang.git", 
+      "subject": "1.38.13", 
+      "hash": "8ea67b49fd5eeb86f177dcf9df4187a366212d60", 
+      "name": "Alon Zakai", 
+      "email": "azakai@google.com"
+    }, 
+    "wabt": {
+      "remote": "https://chromium.googlesource.com/external/github.com/WebAssembly/wabt.git", 
+      "subject": "Use appveyor status badge that is up-to-date", 
+      "hash": "4e226c6a5491f15593f57aaddb12efe1ee25efb1", 
+      "name": "Ben Smith", 
+      "email": "binji@chromium.org"
+    }
+  }, 
+  "build": "36552", 
+  "scheduler": "llvm"
+}
